@@ -9,6 +9,8 @@
   </br><img src="https://komarev.com/ghpvc/?username=escobarxrd&color=dc143c"/>
 </p>
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/976927825246449754)](https://discord.com/users/976927825246449754)
+
 ## Langauges I Know:
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
